@@ -34,9 +34,13 @@ This project is an end-to-end data analysis solution designed to extract critica
    - 1 st and 2 nd level analysis on what could have been the major reason for Return rate
    - Top 10 Customers in terms of revenue
 
-
-![pj](https://github.com/user-attachments/assets/ec462b0c-b740-4e5a-848d-84b2a513fb0b)
 ![pj](https://github.com/user-attachments/assets/f65a39d2-7a6f-4e14-9b7b-fc624bb26f8a)
+
+## Product View
+- This view was primarily made to get the down funnel understanding of how each product is working
+- Shows use total profit generated, total orders, total revenue, total retunrs
+- Also show us if we adjusted price how much revenue we increase
+
 ![pj](https://github.com/user-attachments/assets/acbda552-4465-44c7-809e-1600781c3ff2)
 ![jp](https://github.com/user-attachments/assets/8b581cab-90bd-4a98-b145-736cf2ef24eb)
 ![pj](https://github.com/user-attachments/assets/b5dc4f61-438f-4578-82b0-dd3f35e9cae3)
