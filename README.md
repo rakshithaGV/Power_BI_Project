@@ -48,6 +48,14 @@ This project is an end-to-end data analysis solution designed to extract critica
 - Gives the Overview of an business to take an action on down funnel parameters
 
 ![jp](https://github.com/user-attachments/assets/8b581cab-90bd-4a98-b145-736cf2ef24eb)
-![pj](https://github.com/user-attachments/assets/b5dc4f61-438f-4578-82b0-dd3f35e9cae3)
+
+## Distribution View
+- A quick distribution view to understand multiple parameter performance(like many products are getting returned) and take
+  actions accordingly.
+
+
 ![pj](https://github.com/user-attachments/assets/c48792c9-7c57-4745-829e-9b44f8e4fe29)
+
+## Customer View
+- Helps to understand the customer purchasing pattern 
      
