@@ -42,6 +42,11 @@ This project is an end-to-end data analysis solution designed to extract critica
 - Also show us if we adjusted price how much revenue we increase
 
 ![pj](https://github.com/user-attachments/assets/f65a39d2-7a6f-4e14-9b7b-fc624bb26f8a)
+
+## Map View
+- This view helps to identify from region most of our revenue is generating
+- Gives the Overview of an business to take an action on down funnel parameters
+
 ![jp](https://github.com/user-attachments/assets/8b581cab-90bd-4a98-b145-736cf2ef24eb)
 ![pj](https://github.com/user-attachments/assets/b5dc4f61-438f-4578-82b0-dd3f35e9cae3)
 ![pj](https://github.com/user-attachments/assets/c48792c9-7c57-4745-829e-9b44f8e4fe29)
