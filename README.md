@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-
+![PJ](https://github.com/user-attachments/assets/387343f5-6b09-449c-b91f-159298a523b5)
 
 This project is an end-to-end data analysis solution designed to extract critical business insights from Adventure Works Sales Data . We utilize excel and Power Query for data processing and analysis, Power BI for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying/
 
